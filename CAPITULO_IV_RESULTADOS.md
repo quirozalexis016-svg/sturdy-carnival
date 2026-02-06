@@ -43,7 +43,7 @@ El diagnóstico se realizó en **8 obras públicas municipales**, con **24 frent
 En términos de tendencia, se identificó una **alta concentración de no conformidades** en actividades críticas (trabajos en altura, riesgo eléctrico, operación de maquinaria y excavaciones), lo que posiciona el diagnóstico en un nivel **preventivo insuficiente** para las exigencias de la NOM‑031‑STPS‑2011.
 
 ### 4.2 Identificación de peligros y condiciones inseguras
-Los peligros y condiciones inseguras fueron clasificados por tipo conforme al diagnóstico directo en campo. La distribución de eventos observados (420 eventos) se resume a continuación.
+Los peligros y condiciones inseguras fueron clasificados por tipo conforme al diagnóstico directo en campo, utilizando **formatos de fotografía como guía estructurada de observación directa** para documentar hallazgos y evidencias. La distribución de eventos observados (420 eventos) se resume a continuación.
 
 **Tabla 4.1 Identificación de peligros detectados en obras públicas**
 
@@ -86,7 +86,7 @@ El cumplimiento normativo se evaluó con checklists basados principalmente en NO
 | NOM‑010‑STPS‑2014 | Control de polvos y agentes químicos |  | X | Falta de control de polvo y protección respiratoria. |
 
 ### 4.5 Resultados por tipo de obra pública
-Se presentan los riesgos predominantes por rubro de obra, en función de los hallazgos y la naturaleza de las actividades observadas.
+Se presentan los riesgos predominantes por rubro de obra, en función de los hallazgos y la naturaleza de las actividades observadas en **tipos de obra pública del municipio (obras de base pública)**.
 
 **Tabla 4.4 Riesgos críticos por tipo de obra**
 
@@ -124,6 +124,7 @@ Estas prioridades constituyen la base técnica que debe estructurar el Capítulo
 ## Anexo técnico dentro del Capítulo IV (síntesis operativa)
 
 ### Lista de verificación resumida para condiciones críticas observadas
+Los ítems se sustentan en los **formatos de fotografía** utilizados como guía de observación directa para asegurar evidencia trazable en cada hallazgo.
 
 | Ítem crítico (checklist) | Evidencia de incumplimiento (sí/no) | Observación típica |
 | --- | :--: | --- |
